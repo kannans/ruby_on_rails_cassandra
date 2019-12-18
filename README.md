@@ -1,24 +1,6 @@
-# README
+# Ruby on Rails with Cassandra
+* Rails 6.0.2
+* Ruby 2.6.5
+* Cassandra apache-cassandra-4.0-alpha2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+will add proper step implementation (work in progress)
